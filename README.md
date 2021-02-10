@@ -1,4 +1,4 @@
-# breaking-news
+# Breaking News APP
 
 # What is it?
 
